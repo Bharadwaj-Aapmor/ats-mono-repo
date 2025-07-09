@@ -1,0 +1,2352 @@
+{
+  "candidates": [
+    {
+      "_id": { "$oid": "682dc04ed2bdd9fdbcdb0cf9" },
+      "ats_analysis": {
+        "overall_match_percentage": 78.5,
+        "skills_match_percentage": 85,
+        "experience_match_percentage": 60,
+        "education_match_percentage": 100,
+        "matched_skills": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Git",
+          "REST APIs"
+        ],
+        "missing_skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "Vue.js",
+          "Python",
+          "Ruby",
+          "Java",
+          "PHP",
+          "MySQL",
+          "PostgreSQL",
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "CI/CD pipelines",
+          "DevOps practices",
+          "security principles"
+        ],
+        "candidate_name": "NAGENDRA SAI PRAVEEN KANDA",
+        "Email": "praveensai18@gmail.com",
+        "Phone": "8106160074",
+        "highest_education": "Bachelor of Technology (Mechanical) | Ideal Institute of Technology, Kakinada | 2016",
+        "total_experience_years": 8.3,
+        "relevant_experience_years": 1.6
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e46f5f48-7028-49de-9aad-732defcca64e-Sai_Praveen_SDE_Resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=2rG01LYMVokfIxqkyCMD%2BwnCkeQ%3D&Expires=1747832394",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682dc00bd2bdd9fdbcdb0cf7" },
+      "ats_analysis": {
+        "overall_match_percentage": 78.5,
+        "skills_match_percentage": 85,
+        "experience_match_percentage": 60,
+        "education_match_percentage": 100,
+        "matched_skills": [
+          "React.js",
+          "Node.js",
+          "MongoDB",
+          "Git",
+          "REST APIs"
+        ],
+        "missing_skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Angular",
+          "Vue.js",
+          "Python",
+          "Ruby",
+          "Java",
+          "PHP",
+          "MySQL",
+          "PostgreSQL",
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "CI/CD pipelines",
+          "DevOps practices",
+          "security principles"
+        ],
+        "candidate_name": "NAGENDRA SAI PRAVEEN KANDA",
+        "Email": "praveensai18@gmail.com",
+        "Phone": "8106160074",
+        "highest_education": "Bachelor of Technology (Mechanical) | Ideal Institute of Technology, Kakinada | 2016",
+        "total_experience_years": 8.3,
+        "relevant_experience_years": 1.7
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/2cb41187-0fa2-4737-a947-786dd8c30b57-Sai_Praveen_SDE_Resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=agMUu1qeK8XRxUJZHF5pUvvXPU4%3D&Expires=1747832331",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "683415e70df928ccc65593f2" },
+      "ats_analysis": {
+        "overall_match_percentage": 72.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 100,
+        "education_match_percentage": 50,
+        "matched_skills": ["Python", "Machine Learning"],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC"
+        ],
+        "candidate_name": "S Bharath Sai",
+        "Email": "bharath.cbit@gmail.com",
+        "Phone": "+91-8095464684",
+        "highest_education": "Post Graduate Diploma in Energy Systems Engineering, Indian Institute of Technology, Bombay",
+        "total_experience_years": 15.4,
+        "relevant_experience_years": 3.4
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/71b8baf4-0815-4151-956c-44991115f678-c350da86-a25c-4c71-8e02-5314956fed9e_Bharath_Resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=Bt3J96sS%2By788FcL0TeKEb0jHC4%3D&Expires=1748247528",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Bharath Resume.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68340d990132004650de7a24" },
+      "ats_analysis": {
+        "overall_match_percentage": 72.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 100,
+        "education_match_percentage": 100,
+        "matched_skills": ["Python", "Machine Learning"],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC"
+        ],
+        "candidate_name": "S Bharath Sai",
+        "Email": "bharath.cbit@gmail.com",
+        "Phone": "+91-8095464684",
+        "highest_education": {
+          "degree": "Post Graduate Diploma in Energy Systems Engineering",
+          "institution": "Indian Institute of Technology, Bombay"
+        },
+        "total_experience_years": 14.4,
+        "relevant_experience_years": 4.3
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/9d715d85-e5ed-4f30-98b4-0c464e71fda7-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Bharath_Resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=rIhyeytqt0kCOvVIYpobMd8j7Ao%3D&Expires=1748245401",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Bharath Resume.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68248be5f697901208c3dc25" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/45616973-5184-4dd3-9449-63b2dd4045f7-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=TvcXAI4wpYtV3Utw2OfmdJFv0xU%3D&Expires=1747229158",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "681c5d1e2df34b148e27fd0f" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 100,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Preprocessing",
+          "API Development"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e38a1741-2456-4056-ab72-86e5ed132b68-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=UgVVc9STLQTOlzdBvn2DKjauLD4%3D&Expires=1746692893",
+      "metadata": { "userid": "hjhshh6788ffsa", "name": "ciril cheriand" }
+    },
+    {
+      "_id": { "$oid": "68248d19f697901208c3dc29" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/d9812bf4-6dd8-48d5-b091-0bbc684ae1c7-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=zFanBb5PfdRO3OdiMQJ2hB%2BqyIA%3D&Expires=1747229467",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248d82f697901208c3dc2b" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/f1206a9e-e914-44d7-ad79-a50ee91308ed-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=NjuE%2F8NFKXGjudoRcjAzQFcT5GA%3D&Expires=1747229573",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248e19f697901208c3dc2d" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e8124018-56f8-4ff0-a08f-66f5127387c5-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=VgIaEXaK8Ox%2FVSxOwqz0Eo2uXJg%3D&Expires=1747229719",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248e8df697901208c3dc2f" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL", "Python"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git",
+          "cloud platforms",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e64d2491-f528-43a8-a27e-01372def172d-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=%2B1sJuD2EBer2eyF5vym0dQLBG5U%3D&Expires=1747229834",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248f07f697901208c3dc31" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "Data warehousing",
+          "Git",
+          "Cloud platforms",
+          "Data lake architectures",
+          "Big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/780dbaa2-5806-48db-b914-99554bba40e9-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=LOoeEPy%2FGIx3Guq6MRtma2GUX00%3D&Expires=1747229952",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248fe3f697901208c3dc33" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/039b8c61-ba40-4429-a475-3860a18d285d-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=2x3FUvOuJfg5WgaRhx7pMCfJexk%3D&Expires=1747230176",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68249055f697901208c3dc35" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/f8f5d550-836f-4e9e-9514-d21141fb62e4-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=FLyC0bxob8H47q95SAe%2Fnuk45PU%3D&Expires=1747230294",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68249126f697901208c3dc37" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/93f4fc1f-7800-4464-b182-d9d13f28cb02-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=mAmAEmSfPgzL%2Bo4gDD9B8P4aKzk%3D&Expires=1747230502",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68249152f697901208c3dc39" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 75,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": {
+          "degree": "Bachelor of Technology (B. Tech)",
+          "institution": "Sri Vasavi Institute of Engineering and Technology"
+        },
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/c3f75c07-e7bb-45fe-87e4-607de14ce7ef-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=20ONb7L6iMIA4oeWMEjgMZ80mu0%3D&Expires=1747230549",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68249192f697901208c3dc3b" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL processes", "Python"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git",
+          "cloud platforms",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/c6b371b5-eda5-468f-b773-5b0df5b12c5a-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=H3IZbMHQxEVLidrQCJniO5Z0VM0%3D&Expires=1747230607",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "6824934ff697901208c3dc3d" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 20,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL", "SQL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "Python",
+          "Bash",
+          "Data warehousing concepts",
+          "Dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.4,
+        "relevant_experience_years": 0.4
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/7220d320-9b49-47c4-966f-5cbd66f533cf-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=fW2d2bC%2BF6DwrvuBOnmN9ZkzKr0%3D&Expires=1747231057",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68257f06f697901208c3dc3f" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/092066b3-bcd6-4826-8349-381ddcabd8c1-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=u%2FEbVka%2FuI8z%2FuW0hXzy6pswKYY%3D&Expires=1747291402",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68257fc5f697901208c3dc41" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e5a41b5c-6df1-44f1-a72f-680f322c715a-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=3FSSgGjQapKlUWjMnV3rd20dto0%3D&Expires=1747291592",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68258196f697901208c3dc4d" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 75,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/d435cafe-91f4-4b6c-944e-62b926c7648e-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=74PEnL7HMItZNA9YNyRZxm69WaM%3D&Expires=1747292058",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682dbf0ed2bdd9fdbcdb0cf5" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
+        "missing_skills": [
+          "React.js",
+          "Angular",
+          "Vue.js",
+          "Node.js",
+          "Python",
+          "PostgreSQL",
+          "MongoDB",
+          "Git",
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "CI/CD pipelines",
+          "DevOps practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology, 2023, CGPA: 7.2",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/4f3487d8-e00c-42b7-b71d-8af67b654b24-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=Z2LPooJSelftnYXIKAHglDp1%2Fy0%3D&Expires=1747832081",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682488faab28456f420a25d2" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 100,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Development",
+          "Data Pipeline",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "Sruthi P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/215db7fd-b22a-459c-a150-b9680fd3f396-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=JOnll%2F8LgUZRsbDJIQejaiI5ChY%3D&Expires=1747228405",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68245f59f5643b1b0435b5ba" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 75,
+        "experience_match_percentage": 40,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Preprocessing",
+          "API Development"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/36363a42-f092-4c60-8542-9d9ded6a3499-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=m%2BV%2FqHRh%2F1iXzMczQFhK617IyCc%3D&Expires=1747217753",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68245f37f5643b1b0435b5b8" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 75,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Preprocessing",
+          "API Development"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/7cf75e31-83f7-49c1-9ba9-3a959e3554f3-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=gWysAi40ZIME7wys%2F9tvXjkAGuo%3D&Expires=1747217717",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68245f17f5643b1b0435b5b6" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Development",
+          "Data Pipeline",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/848e8995-8c1a-4727-ae70-1d0ca9e80967-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=V6RouqfU2Q2sb72Vtr%2FqhKHS3qQ%3D&Expires=1747217685",
+      "metadata": { "userid": "hjhshh6788ffsa", "name": "ciril cheriand" }
+    },
+    {
+      "_id": { "$oid": "681c7fdfd9070c595e3541ee" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Preprocessing",
+          "API Development"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/5294d8d7-f4b9-475c-afdd-9e7b2a66a44a-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=zqEVutIBXFtpI6gXU0daxnGdgTk%3D&Expires=1746701792",
+      "metadata": { "userid": "hjhshh6788ffsa", "name": "ciril cheriand" }
+    },
+    {
+      "_id": { "$oid": "681c5d912df34b148e27fd11" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Development",
+          "Data Pipeline",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/70f8a7ee-0022-4ae9-8165-7b719ff2a804-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=icANu1gW3Xt4%2B1m%2F%2FpRyuqLF0Eo%3D&Expires=1746692997",
+      "metadata": { "userid": "hjhshh6788ffsa", "name": "ciril cheriand" }
+    },
+    {
+      "_id": { "$oid": "681c5cc22df34b148e27fd0d" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 100,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "API development",
+          "Data pipelines"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare data privacy",
+          "RAG",
+          "Prompt engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 2,
+        "relevant_experience_years": 2
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/b3312289-69f3-4a5f-a35f-c6b91bbee6fb-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=SYImhm3EcvtTO2wFG7YPpEn4qTo%3D&Expires=1746692795",
+      "metadata": { "userid": "hjhshh6788ffsa", "name": "ciril cheriand" }
+    },
+    {
+      "_id": { "$oid": "682487307e2b67816d6a8bfd" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL processes", "Python"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "version control systems",
+          "Git",
+          "cloud platforms",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology, 2023",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/b1b232b9-e800-4513-9e53-44f7b0fc4a13-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=eQKQOBjmS8jv9WB1hBOE0YCYLjU%3D&Expires=1747227952",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248971f697901208c3dc16" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 50,
+        "education_match_percentage": 50,
+        "matched_skills": [
+          "Python",
+          "NLP",
+          "Machine Learning",
+          "Data Preprocessing",
+          "API Development"
+        ],
+        "missing_skills": [
+          "LLM",
+          "API Integration",
+          "Healthcare Data Privacy",
+          "RAG",
+          "Prompt Engineering"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.9,
+        "relevant_experience_years": 1.9
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/c275b7e2-e45b-44e7-ac51-1b2166cc68c9-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=iYHjWHQAX4bLrJ6nSG5HfT0gVPs%3D&Expires=1747228522",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "6824897bf697901208c3dc17" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/bea7bf2e-20aa-4c1b-a38a-8cec3f546acf-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=8%2BimgIWeJX1L6336j1hTFeMFDmE%3D&Expires=1747228537",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248b3ff697901208c3dc1c" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing concepts",
+          "Dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/154c184a-b728-40da-947f-9955cc7de85b-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=H1gMne0Q7c9sOeKMw61hKIjSEc8%3D&Expires=1747228989",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248b40f697901208c3dc1d" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/e76410d3-48bc-44fc-9ec3-a4c40751090a-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=8wSsBI9iZYrC6T3TxknDUrHm2Fw%3D&Expires=1747228993",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248b42f697901208c3dc1e" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 75,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing concepts",
+          "Dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/87a5cff6-e625-4129-98f1-6d85d0499bb2-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=cBCqgSpCAcGQQTk8SwbXdrJco70%3D&Expires=1747228994",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248b43f697901208c3dc1f" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/4b1b16aa-6916-4410-adf0-c5c401b67d4b-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=zcLq35%2BV9kFpoii%2FkaC2Pl6TZlE%3D&Expires=1747228994",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248b85f697901208c3dc21" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 20,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.4,
+        "relevant_experience_years": 0.4
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/2062fff4-a635-4070-a814-d315e3a5559d-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=8XSwHfaBWct3M6nfXTa7lP3w8nw%3D&Expires=1747229061",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248ba5f697901208c3dc23" },
+      "ats_analysis": {
+        "overall_match_percentage": 62.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/6e192acd-a80b-4780-b7d4-66d34ca04273-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=8DC0gIYb9r11nb%2Fg8mwsCEjQBuw%3D&Expires=1747229092",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68248c5df697901208c3dc27" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 70,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "Git",
+          "cloud platforms",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "institution": "Sri Vasavi Institute of Engineering and Technology"
+        },
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/80dcb738-3737-4ffb-8e0c-cc7b0a53ddbe-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=ALvkBCtNVTWVETHZDEoz9dyCW9A%3D&Expires=1747229275",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68340bad0132004650de7a1c" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 65,
+        "experience_match_percentage": 25,
+        "education_match_percentage": 100,
+        "matched_skills": ["Python", "OpenCV", "TensorFlow"],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Linux",
+          "C#",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "SRUTHI P K",
+        "Email": "sruthiparakkettil@gmail.com",
+        "Phone": "8086548663",
+        "highest_education": "M.Sc Mathematics, Calicut University",
+        "total_experience_years": 1.3,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/abbd73fd-6162-474b-ae8e-fb3c53cc47f8-dc43a5bf-7cfa-4b92-a822-3a2f4f566cfd_resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=wIIsv5GQe6Adbrm3wjcnB%2BNXcRM%3D&Expires=1748244910",
+      "metadata": {
+        "userid": "bhsgahuagaykkk",
+        "name": "cirilchh",
+        "batch_id": "dc43a5bf-7cfa-4b92-a822-3a2f4f566cfd",
+        "original_filename": "resume_sruthi.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "682487047e2b67816d6a8bfb" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 60,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "Python",
+          "Bash",
+          "Data warehousing",
+          "Git"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/443b3854-64dc-42c5-961a-4884afa2fe5d-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=Zy835oDTZAsBGhfBO4YAiNk7tqw%3D&Expires=1747227907",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682485e77e2b67816d6a8bf9" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 60,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "scripting languages",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "version control systems",
+          "cloud platforms",
+          "cloud-native ETL tools",
+          "data lake architectures",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/66cd89ff-b247-40e4-9c0a-71c7f7720c00-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=ahUX0fEPefLViZ6YbVNO0JtQ9D4%3D&Expires=1747227622",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682485707e2b67816d6a8bf7" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 60,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "scripting languages",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "version control systems",
+          "cloud platforms",
+          "cloud-native ETL tools",
+          "data lake architectures",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/2ce57c31-e254-402c-a13f-47c7fbc1eef5-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=9ik%2Fxy9u845H2WYLB20H7dYl5tg%3D&Expires=1747227506",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682483c17e2b67816d6a8bf5" },
+      "ats_analysis": {
+        "overall_match_percentage": 52.5,
+        "skills_match_percentage": 60,
+        "experience_match_percentage": 10,
+        "education_match_percentage": 100,
+        "matched_skills": ["Talend", "Snowflake", "ETL"],
+        "missing_skills": [
+          "Informatica",
+          "Apache NiFi",
+          "SQL",
+          "relational databases",
+          "scripting languages",
+          "data warehousing concepts",
+          "dimensional modeling",
+          "version control systems",
+          "cloud platforms",
+          "cloud-native ETL tools",
+          "data lake architectures",
+          "big data technologies",
+          "CI/CD practices"
+        ],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/0c34e643-d3a5-4cff-9602-d252d63dd296-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=AuDhItehryiVFhCv0kXIiASJzwg%3D&Expires=1747227071",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68340d980132004650de7a23" },
+      "ats_analysis": {
+        "overall_match_percentage": 42.5,
+        "skills_match_percentage": 20,
+        "experience_match_percentage": 100,
+        "education_match_percentage": 50,
+        "matched_skills": ["C#"],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "VAMSIDHAR VALLABHAJOSYULA",
+        "Email": "vvdharin@gmail.com",
+        "Phone": "+91- 9703204320",
+        "highest_education": "Master of Science (Electronics) - Andhra University | 2003",
+        "total_experience_years": 19.7,
+        "relevant_experience_years": 16.2
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/45c9e1a2-5f8b-48c8-ba19-8914b7d4cc01-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Vamsidhar_V_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=oNtOGHvzR3CZOe%2FmidWIXU6OAYY%3D&Expires=1748245395",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Vamsidhar V CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68340dab0132004650de7a26" },
+      "ats_analysis": {
+        "overall_match_percentage": 32.5,
+        "skills_match_percentage": 40,
+        "experience_match_percentage": 15,
+        "education_match_percentage": 75,
+        "matched_skills": ["C", "C++"],
+        "missing_skills": [
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Sarayu Gosika",
+        "Email": "sarayugosika2004@gmail.com",
+        "Phone": "+91-8374755766",
+        "highest_education": "Bachelor of Science in Applied Geology, Indian Institute of Technology, Kharagpur",
+        "total_experience_years": 2.4,
+        "relevant_experience_years": 0.3
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/8f0093f9-6da1-404c-b0e4-de84a4c4d1e0-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Sarayu_s_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=YDe%2BDjyPhTsv3YCHq0oXRg8z7hU%3D&Expires=1748245419",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Sarayu_s_CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "6834166b0df928ccc65593fc" },
+      "ats_analysis": {
+        "overall_match_percentage": 23.75,
+        "skills_match_percentage": 20,
+        "experience_match_percentage": 30,
+        "education_match_percentage": 20,
+        "matched_skills": ["C#"],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD"
+        ],
+        "candidate_name": "VAMSIDHAR VALLABHAJOSYULA",
+        "Email": "vvdharin@gmail.com",
+        "Phone": "+91- 9703204320",
+        "highest_education": "Master of Science (Electronics) \u2013 Andhra University | 2003",
+        "total_experience_years": 14.7,
+        "relevant_experience_years": 6.2
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/7cb6f840-c2f4-4c9a-96ca-566dcbb994a9-123e78d4-d5d3-428a-bd8a-9eb1b591bf5c_Vamsidhar_V_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=fbIFzXk5EZffjcIqjKrDmUr3nAY%3D&Expires=1748247658",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "123e78d4-d5d3-428a-bd8a-9eb1b591bf5c",
+        "original_filename": "Vamsidhar V CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683415f90df928ccc65593f6" },
+      "ats_analysis": {
+        "overall_match_percentage": 12.5,
+        "skills_match_percentage": 20,
+        "experience_match_percentage": 15,
+        "education_match_percentage": 50,
+        "matched_skills": ["C", "C++"],
+        "missing_skills": [
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Sarayu Gosika",
+        "Email": "sarayugosika2004@gmail.com",
+        "Phone": "+91-8374755766",
+        "highest_education": "Bachelor of Science in Applied Geology, Indian Institute of Technology, Kharagpur",
+        "total_experience_years": 2.4,
+        "relevant_experience_years": 0.3
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/46fb60aa-b4d8-489f-a99d-3531426d6a3d-c350da86-a25c-4c71-8e02-5314956fed9e_Sarayu_s_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=naZMtWdUvssP0LnFwlioBlb%2FsE4%3D&Expires=1748247546",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Sarayu_s_CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68340dc50132004650de7a29" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Archana Desai",
+        "Email": "Archanadesai1121@gmail.com",
+        "Phone": "9110753164/8367735479",
+        "highest_education": "B.com computers from Govt. Degree. Collage.",
+        "total_experience_years": 11.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/ee2196ac-b40d-4b8b-ae32-2f603328976e-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Archana_Desai_.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=knpYz3nAVn7lQMQc2EhSelMQUYE%3D&Expires=1748245423",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Archana Desai .pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68258156f697901208c3dc49" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/775f501e-2563-445f-bc7b-5d3f0c9a6459-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=ovR4iZ1zcmLRh4QqNUm2szoZ96Y%3D&Expires=1747291982",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "6834160f0df928ccc65593fa" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Archana Desai",
+        "Email": "Archanadesai1121@gmail.com",
+        "Phone": "9110753164/8367735479",
+        "highest_education": "B.Com computers from Govt. Degree College",
+        "total_experience_years": 15.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/4c4de225-5bc2-492c-8358-c6379f0a9392-c350da86-a25c-4c71-8e02-5314956fed9e_Archana_Desai_.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=ZCvuUoegXt42eZ%2FlZoeGOToCUVY%3D&Expires=1748247549",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Archana Desai .pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "6834160a0df928ccc65593f9" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "KADIVETI PENCHALAREDDY",
+        "Email": "penchalareddy7432@gmail.com",
+        "Phone": "9502618605",
+        "highest_education": "B.TECH, Kalasalingam Academy of Research And Education",
+        "total_experience_years": 0,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/b73e4444-4f29-48e2-9ac7-e934f0e25a4b-c350da86-a25c-4c71-8e02-5314956fed9e_Penchalareddy_CV_202505061608196.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=7d05RaVOXopa5D8YtUmntQHAENY%3D&Expires=1748247563",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Penchalareddy CV_202505061608196.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683416010df928ccc65593f8" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 100,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "VAMSI GOLI",
+        "Email": "goli.vamsi@gmail.com",
+        "Phone": "+91 8978406668",
+        "highest_education": "MBA: Information Technology Management from Western Governors University - USA",
+        "total_experience_years": 18.2,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/50160e41-ccac-4c5c-ae20-0bb5d2423364-c350da86-a25c-4c71-8e02-5314956fed9e_Vamsi_Goli_-_Senior_Engineering_Manager.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=4t7fKswscd6baXawx3KwRBnWl64%3D&Expires=1748247548",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Vamsi Goli - Senior Engineering Manager.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683415fb0df928ccc65593f7" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 50,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "AMBALA GIRISHKUMAR",
+        "Email": "ambalagirish55555@gmail.com",
+        "Phone": "7842604739",
+        "highest_education": "Bachelor of Technology - Computer Science and Engineering (DATA SCIENCE), Vidya Jyoti Institute Of Technology",
+        "total_experience_years": 0,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/6a41bed5-1c1d-4f9d-885b-7917827b4e2b-c350da86-a25c-4c71-8e02-5314956fed9e_girish_web_designer_resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=i5LLQwPCobVzGlcS4QFxW0H8e%2BE%3D&Expires=1748247546",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "girish web designer resume.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683415e80df928ccc65593f5" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 50,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Lokesh Varma",
+        "Email": "lokeshvarma@myyahoo.com",
+        "Phone": "9381370854",
+        "highest_education": "Bachelor of Business Administration (BBA) from Singhania University",
+        "total_experience_years": 2.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/daa8b052-1386-4a0b-8942-43b89260f4f2-c350da86-a25c-4c71-8e02-5314956fed9e_LokeshVarma_Uppalapati_5269414_1.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=Rb90WjC332zWi5%2FSeED%2BKG8JWuA%3D&Expires=1748247525",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "LokeshVarma_Uppalapati_5269414_1.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683415e80df928ccc65593f4" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "VAMSIDHAR VALLABHAJOSYULA",
+        "Email": "vvdharin@gmail.com",
+        "Phone": "+91- 9703204320",
+        "highest_education": "Master of Science (Electronics) - Andhra University, 2003",
+        "total_experience_years": 14.7,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/b1cc5654-b6d1-4bf2-b8e5-5dbd13021ad3-c350da86-a25c-4c71-8e02-5314956fed9e_Vamsidhar_V_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=i3BsXs69o8EVj6tMUyrpRmtvRFM%3D&Expires=1748247525",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Vamsidhar V CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "683415e70df928ccc65593f3" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 100,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Murthy Pattisapu",
+        "Email": "satyamurthy.pattisapu@gmail.com",
+        "Phone": "8095198701",
+        "highest_education": "BTech, Computer science, Gitam University, Visakhapatnam",
+        "total_experience_years": 11.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/2ad373da-97c2-49e2-b9e2-cabdb2e1c4d7-c350da86-a25c-4c71-8e02-5314956fed9e_Murthy_Pattisapu_-_Engineering_Manager_keka.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=6PV2Pj4vaXCaqBMgd1IrMdlYf38%3D&Expires=1748247526",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "c350da86-a25c-4c71-8e02-5314956fed9e",
+        "original_filename": "Murthy_Pattisapu_-_Engineering_Manager_keka.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "6825816ef697901208c3dc4b" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/177c0e75-7339-4033-8803-2c46d6eb6683-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=YF29O6gFoon5o1Uz6ULWhLKJPiY%3D&Expires=1747292020",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "683412910132004650de7a2b" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 50,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "VAMSIDHAR VALLABHAJOSYULA",
+        "Email": "vvdharin@gmail.com",
+        "Phone": "+91- 9703204320",
+        "highest_education": "Master of Science (Electronics) \u2013 Andhra University | 2003",
+        "total_experience_years": 15.2,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/9cf513db-dfd6-44b2-a093-35923a709ff0-b264df4b-16e5-45ab-8acc-1f6906ddd96c_Vamsidhar_V_CV.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=DEow5zMvp00ov2b7ODjF7WE6Dgc%3D&Expires=1748246662",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "b264df4b-16e5-45ab-8acc-1f6906ddd96c",
+        "original_filename": "Vamsidhar V CV.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "682580cbf697901208c3dc43" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/5906ade3-e96b-447e-9b17-28fb24bb9dc6-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=i7L63qlWjEx4hNJy1fhGSRJ6Ffs%3D&Expires=1747291856",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68340db60132004650de7a28" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "KADIVETI PENCHALAREDDY",
+        "Email": "penchalareddy7432@gmail.com",
+        "Phone": "9502618605",
+        "highest_education": "B.TECH, Kalasalingam Academy of Research And Education",
+        "total_experience_years": 0,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/eebf607f-cb23-46c0-a458-0fbff2b974d6-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Penchalareddy_CV_202505061608196.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=m%2BzL8H7lt8WWYFMM5G73ZTvZECM%3D&Expires=1748245435",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Penchalareddy CV_202505061608196.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68340db20132004650de7a27" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 100,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "VAMSI GOLI",
+        "Email": "goli.vamsi@gmail.com",
+        "Phone": "+91 8978406668",
+        "highest_education": "MBA: Information Technology Management from Western Governors University - USA",
+        "total_experience_years": 12.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/323f1856-c325-47f4-ac01-ab4476bb97f0-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Vamsi_Goli_-_Senior_Engineering_Manager.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=Cj9%2Fzmxl7%2F0DqgcY4Y%2BTVmhFuGU%3D&Expires=1748245416",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Vamsi Goli - Senior Engineering Manager.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "6825812df697901208c3dc47" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/c1951c4c-1301-43a8-a369-2d2a6223a864-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=bU3mdj1vvAubDuO0pNprTN4wqEo%3D&Expires=1747291955",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68340da80132004650de7a25" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 50,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "AMBALA GIRISHKUMAR",
+        "Email": "ambalagirish55555@gmail.com",
+        "Phone": "7842604739",
+        "highest_education": "Bachelor of Technology - Computer Science and Engineering (DATA SCIENCE), Vidya Jyoti Institute Of Technology",
+        "total_experience_years": 0,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/96353b1e-4dcc-4774-a4f5-ba33ccc660f6-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_girish_web_designer_resume.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=OzqCGXwhBAJCjrgD1K1jFu5CClg%3D&Expires=1748245419",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "girish web designer resume.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "682581ccf697901208c3dc4f" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/f15a26e3-ac22-4a7e-8309-97b7f8f5a7fb-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=CVEmlTuzNkkRqv0xxFEuXni6gdU%3D&Expires=1747292114",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "6825824ff697901208c3dc51" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/19f95e8d-ba99-4149-b9b2-7edabda85230-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=rFdD6hruTt7yJgdWc6ln7sdi2WQ%3D&Expires=1747292247",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "68340d980132004650de7a22" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 100,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Murthy Pattisapu",
+        "Email": "satyamurthy.pattisapu@gmail.com",
+        "Phone": "8095198701",
+        "highest_education": "BTech, Computer science, Gitam University, Visakhapatnam",
+        "total_experience_years": 16.4,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/1a443f73-1d6e-4b11-8ca4-6656678dcde5-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_Murthy_Pattisapu_-_Engineering_Manager_keka.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=x1dWlJ1WnXhvxzTfh6JPZG652RU%3D&Expires=1748245395",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "Murthy_Pattisapu_-_Engineering_Manager_keka.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "68340d930132004650de7a21" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [
+          "C",
+          "C++",
+          "Python",
+          "Linux",
+          "C#",
+          "OpenCV",
+          "TensorFlow",
+          "Caffe",
+          "CUDA",
+          "OpenCL",
+          "OpenGL",
+          "CNN",
+          "RNN",
+          "DNN",
+          "BNN",
+          "LSTM",
+          "SSD",
+          "GPU",
+          "DSP",
+          "ISP",
+          "SoC",
+          "Nvidia",
+          "Qualcomm",
+          "NXP",
+          "Movidius"
+        ],
+        "candidate_name": "Lokesh Varma",
+        "Email": "lokeshvarma@myyahoo.com",
+        "Phone": "9381370854",
+        "highest_education": "Bachelor of Business Administration (BBA) from Singhania University",
+        "total_experience_years": 2.6,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/4c49d01d-e6a5-4240-929d-7795b0d32fb9-4e997834-e2a0-4f0f-925e-a57eba4e9c0e_LokeshVarma_Uppalapati_5269414_1.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=rac3wMuNEaFxzLqFCcF5gtOcsOs%3D&Expires=1748245395",
+      "metadata": {
+        "userid": "nhakjhj",
+        "name": "njkhjhjhs",
+        "batch_id": "4e997834-e2a0-4f0f-925e-a57eba4e9c0e",
+        "original_filename": "LokeshVarma_Uppalapati_5269414_1.pdf"
+      }
+    },
+    {
+      "_id": { "$oid": "682582b1f697901208c3dc53" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/621432da-cd7d-436c-9588-5f8e6dce0519-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=%2B0oY2tB5jdxFQpeSP4S2keb5cBg%3D&Expires=1747292343",
+      "metadata": { "userid": null, "name": null }
+    },
+    {
+      "_id": { "$oid": "682580f3f697901208c3dc45" },
+      "ats_analysis": {
+        "overall_match_percentage": 0,
+        "skills_match_percentage": 0,
+        "experience_match_percentage": 0,
+        "education_match_percentage": 0,
+        "matched_skills": [],
+        "missing_skills": [],
+        "candidate_name": "CHANDU MANIKANTA MUTHE",
+        "Email": "chandumanikantamuthe@gmail.com",
+        "Phone": "8309679151",
+        "highest_education": "Bachelor of Technology (B. Tech), Sri Vasavi Institute of Engineering and Technology",
+        "total_experience_years": 0.5,
+        "relevant_experience_years": 0.5
+      },
+      "file_url": "https://cv-test-python-api.s3.amazonaws.com/15aa4201-84b8-4fcc-90c0-8019106b2f25-Muthe_Chandu_Manikanta_Resume-N.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=b5v0KvwtSId88HoAoTPzeuhHaes%3D&Expires=1747291898",
+      "metadata": { "userid": null, "name": null }
+    }
+  ],
+  "total_returned": 69,
+  "note": "This endpoint returns only essential fields for better performance"
+}

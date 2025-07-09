@@ -1,0 +1,69 @@
+{
+  "ats_analysis": {
+    "overall_match_percentage": 62.5,
+
+    "skills_match_percentage": 70,
+
+    "experience_match_percentage": 50,
+
+    "education_match_percentage": 50,
+
+    "matched_skills": ["Python", "NLP", "Machine Learning", "Deep Learning"],
+
+    "missing_skills": [
+      "LLM",
+
+      "API Development",
+
+      "Data Pipeline",
+
+      "Healthcare Data Privacy",
+
+      "RAG",
+
+      "Prompt Engineering"
+    ],
+
+    "candidate_name": "SRUTHI P K",
+
+    "Email": "sruthiparakkettil@gmail.com",
+
+    "Phone": "8086548663",
+
+    "highest_education": "M.Sc Mathematics, Calicut University",
+
+    "skills": "Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, MySQL, SSMS, MS Excel, KNN Algorithm, Naive Bayes Algorithm, SVM Algorithm, Decision Tree, Linear Regression, Logistic Regression, Ensemble Learning, Clustering Algorithms, Dimensionality Reduction, Hyper Parameter Tuning, Natural Language Processing, Deep Learning",
+
+    "experience": [
+      {
+        "position": "Data Science Intern",
+
+        "duration": "June 2023-December 2023",
+
+        "work": "Conducted comprehensive data preprocessing, including cleaning, encoding, and scaling, selected relevant features, split data for training and testing, trained and evaluated models, data balancing, optimized hyperparameters, and made accurate predictions on new data."
+      },
+
+      {
+        "position": "Data Engineer Intern",
+
+        "duration": "February 2024-Present",
+
+        "work": "Analysing and understanding queries and resolving them quickly and efficiently. I excel in writing complex queries, developing efficient stored procedures and functions in the back-end database (Azure SQL, Synapse). Develop new stored procedures, views and modify existing applications in Qlik. Assist and work with Qlik developers. Responsible for defect resolution and issue tracking. Responsible for all programming stages from design to delivery. Work on programming problems of complex scope. Conducted data quality checks and implemented data validation processes to ensure accuracy and reliability of data."
+      }
+    ],
+
+    "total_experience_years": 1.9,
+
+    "relevant_experience_years": 1.9
+  },
+
+  "file_url": "https://cv-test-python-api.s3.amazonaws.com/c628f70c-6bb8-4637-ac95-9a774d3bf2e7-resume_sruthi.pdf?AWSAccessKeyId=AKIA4MTWINNQYLBE22XN&Signature=v5r8hQincc3LXVYe4VspolL6qFg%3D&Expires=1746692728",
+
+  "metadata": {
+    "userid": "hjhshh6788ffsa",
+
+    "name": "ciril cheriand"
+  },
+
+  "job_description": "About the Role:\n\nWe are growing our Data Science and Data Engineering team and are looking for an experienced AI Engineer specializing in creating GenAI LLM solutions. This position involves collaborating with clients and their teams, discovering gaps for automation using AI, designing customized AI solutions, and implementing technologies to streamline data entry processes within the healthcare sector.\n\n\nResponsibilities:\nConduct detailed consultations with clients functional teams to understand client requirements, one use case is related to handwritten medical records.\nAnalyze existing data entry workflows and propose automation opportunities.\nAPI Integration: Develop APIs and data pipelines to seamlessly connect LLMs with internal and external systems, ensuring secure and scalable data exchange.\nSolution Design & Development: Design, develop, and maintain AI-powered applications that integrate existing LLMs with internal systems to automate workflows and optimize processes.\nLLM Optimization: Optimize LLM API interactions using prompt engineering, retrieval-augmented generation (RAG), context management, and performance tuning.\nPlatform Evaluation: Assess and compare LLM platforms and tools (e.g., OpenAI, Anthropic, Google) to select the best fit for business needs and technical scalability.\nTesting & Monitoring: Implement robust testing and monitoring strategies to ensure performance, reliability, and security of LLM-powered applications.\nDesign tailored AI-driven solutions for the extraction and digitization of information from handwritten medical records.\nCollaborate with clients to define project scopes and objectives.\nEvaluate and recommend AI technologies, focusing on NLP, LLM and machine learning.\nEnsure seamless integration with existing systems and workflows.\nDevelop prototypes and proof-of-concept models to demonstrate the feasibility of proposed solutions.\nConduct rigorous testing to ensure accuracy and reliability.\nWork closely with clients and IT teams to integrate AI solutions effectively.\nProvide technical support during the implementation phase.\nDevelop training materials for end-users and support staff.\nBest Practices & Documentation: Contribute to organizational AI best practices, including guidelines on LLM utilization and maintaining well-documented AI solutions.\nTroubleshooting & Issue Resolution: Identify and resolve LLM integration issues, performance bottlenecks, and data pipeline inconsistencies.\nContinuous Learning: Research and apply emerging LLM advancements, best practices, and industry trends to enhance AI-powered applications.\nCode Review & Quality Assurance: Participate in code reviews, ensuring high-quality, maintainable, and well-documented codebases.\n\n\nQualifications:\n\nAdvanced degree in Computer Science, Artificial Intelligence, or related field (Masters or PhD required).\nProven experience in developing and implementing AI solutions for data entry automation.\nExperience working with LLMs and related AI frameworks (e.g., LangChain, Vector Databases, RAG).\nExperience with API development and integration (RESTful APIs, GraphQL, cloud-based services).\nExpertise in NLP, LLM and other machine-learning techniques.\nStrong programming skills, especially in Python.\nFamiliarity with healthcare data privacy and regulatory requirements.\n\n\nAdditional Qualifications( great to have):\n\nAn ideal candidate will have expertise in the most current LLM/NLP models, particularly in the extraction of data from clinical reports, lab reports, and radiology reports. The ideal candidate should have a deep understanding of EMR/EHR applications and patient-related data."
+}

@@ -1,0 +1,17 @@
+* {
+  /* height: 100%; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(
+    210.08% 135.02% at 108.75% 6.07%,
+    #f8fafc 0%,
+    #d4fff3 26.96%,
+    #cddbff 51.12%,
+    #d3fff3 71.15%,
+    #fafbfd 100%
+  );
+}

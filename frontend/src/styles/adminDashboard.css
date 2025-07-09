@@ -1,0 +1,44 @@
+.admin-main {
+  background: radial-gradient(
+    210.08% 135.02% at 108.75% 6.07%,
+    #f8fafc 0%,
+    #d4fff3 26.96%,
+    #cddbff 51.12%,
+    #d3fff3 71.15%,
+    #fafbfd 100%
+  );
+  min-height: 100vh;
+}
+
+.admin-content {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5% 6%;
+  margin-bottom: 0;
+}
+
+.admin-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.admin-table {
+  /* margin-bottom: 10px; */
+  /* height: h; */
+}
+
+.admin-table-outside {
+  background: rgb(266, 266, 266, 0.6);
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 0.5%;
+}
+
+.candidate-name {
+  cursor: pointer;
+}
+
+.candidate-name:hover {
+  text-decoration: underline;
+}

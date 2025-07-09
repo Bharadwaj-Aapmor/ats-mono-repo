@@ -1,0 +1,84 @@
+.upload-main {
+  background: radial-gradient(
+    210.08% 135.02% at 108.75% 6.07%,
+    #f8fafc 0%,
+    #d4fff3 26.96%,
+    #cddbff 51.12%,
+    #d3fff3 71.15%,
+    #fafbfd 100%
+  );
+  min-height: 100vh;
+}
+
+/* .welcome-user{
+    margin-bottom: 40px;
+    margin-top: 50px;
+} */
+
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 6%;
+}
+
+.upload-inputs {
+  display: flex;
+  justify-content: space-evenly;
+  /* opacity: 0.6; */
+  /* height: 90vh; */
+  justify-content: center;
+}
+
+.inputs {
+  background: white;
+  z-index: 1000;
+  border-radius: 10px;
+  padding: 3% 3%;
+  background: rgba(255, 255, 255, 0.6);
+  height: 25rem;
+  margin-top: 8px;
+  /* box-shadow: ; */
+  /* opacity: 1; */
+}
+
+.left-grid {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.right-grid {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.jd-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.jd-input {
+  overflow: auto;
+  height: 75%;
+}
+
+.icons {
+  color: #00c28e;
+  background-color: #cdf0e4;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.file-input-upload {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: "white";
+  border: 2px dashed #00c28e;
+  opacity: 1 !important;
+  /* min-height: 260px; */
+  border-radius: 5px;
+  width: 100%;
+}
