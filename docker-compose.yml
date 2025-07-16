@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: ats-backend
+    ports:
+      - "8502:8502"     # backend will be accessible on host:8502
+    env_file:
+      - ./backend/.env
+    restart: always
+
+  frontend:
+    build: ./frontend
+    container_name: ats-frontend
+    ports:
+      - "80:80"         # frontend will be accessible on host:80
+    env_file:
+      - ./frontend/.env
+    restart: always
+    depends_on:
+      - backend
+
