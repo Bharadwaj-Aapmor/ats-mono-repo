@@ -1,0 +1,56 @@
+name: Build and Deploy to Kubernetes
+
+on:
+  push:
+    branches: [devops]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build and Push Backend
+        run: |
+          docker build -t ${{ secrets.ECR_BACKEND_REPO }} ./backend
+          docker push ${{ secrets.ECR_BACKEND_REPO }}
+
+      - name: Build and Push Frontend
+        run: |
+          docker build -t ${{ secrets.ECR_FRONTEND_REPO }} ./frontend
+          docker push ${{ secrets.ECR_FRONTEND_REPO }}
+
+  deploy:
+    needs: build-and-push
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to Kubernetes via EC2 terminal
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.K8S_HOST }}
+          username: ${{ secrets.K8S_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            # Write .env file for backend
+            echo "${{ secrets.BACKEND_ENV_FILE }}" > backend.env
+
+            # Replace image names in manifests dynamically
+            sed -i "s|__BACKEND_IMAGE__|${{ secrets.ECR_BACKEND_REPO }}|g" k8s/backend-deployment.yaml
+            sed -i "s|__FRONTEND_IMAGE__|${{ secrets.ECR_FRONTEND_REPO }}|g" k8s/frontend-deployment.yaml
+
+            # Apply Kubernetes configs
+            kubectl apply -f k8s/backend-deployment.yaml
+            kubectl apply -f k8s/backend-service.yaml
+            kubectl apply -f k8s/frontend-deployment.yaml
+            kubectl apply -f k8s/frontend-service.yaml
