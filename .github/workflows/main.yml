@@ -45,7 +45,7 @@ jobs:
             # Clone the deployment repo
             rm -rf ats-mono-repo
             git clone https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
-            cd ats-mono-repo
+            cd ats-mono-repo/k8s
 
             # Write backend environment file
             echo "${{ secrets.BACKEND_ENV_FILE }}" > backend.env
