@@ -44,7 +44,7 @@ jobs:
           script: |
             # Clone the deployment repo
             rm -rf ats-deploy
-            git clone https://github.com/Bharadwaj-AV/ats-deploy.git
+            git clone https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
             cd ats-deploy
 
             # Write backend environment file
