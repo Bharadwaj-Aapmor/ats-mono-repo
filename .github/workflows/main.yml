@@ -31,7 +31,7 @@ jobs:
           docker build -t ${{ secrets.ECR_FRONTEND_REPO }} ./frontend
           docker push ${{ secrets.ECR_FRONTEND_REPO }}
 
-    deploy:
+  deploy:
     needs: build-and-push
     runs-on: ubuntu-latest
     steps:
@@ -54,3 +54,4 @@ jobs:
             kubectl apply -f k8s/backend-service.yaml
             kubectl apply -f k8s/frontend-deployment.yaml
             kubectl apply -f k8s/frontend-service.yaml
+
