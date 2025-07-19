@@ -3,7 +3,7 @@ name: CI/CD Pipeline for Frontend and Backend
 on:
   push:
     branches:
-      - main
+      - devops
 
 env:
   AWS_REGION: ap-south-1
