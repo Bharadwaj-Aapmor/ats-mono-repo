@@ -43,9 +43,9 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             # Clone the deployment repo
-            rm -rf ats-deploy
+            rm -rf ats-mono-repo
             git clone https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
-            cd ats-deploy
+            cd ats-mono-repo
 
             # Write backend environment file
             echo "${{ secrets.BACKEND_ENV_FILE }}" > backend.env
