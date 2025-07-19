@@ -46,18 +46,18 @@ jobs:
             rm -rf ats-mono-repo
             git clone --single-branch --branch devops https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
             cd ats-mono-repo/k8s
-
+            
             # Write backend environment file
             echo "${{ secrets.BACKEND_ENV_FILE }}" > backend.env
-
+            
             # Replace placeholders with ECR image URLs
-            sed -i "s|__BACKEND_IMAGE__|${{ secrets.ECR_BACKEND_REPO }}|g" ats-mono-repo/k8s/backend-deployment.yaml
-            sed -i "s|__FRONTEND_IMAGE__|${{ secrets.ECR_FRONTEND_REPO }}|g" ats-mono-repo/k8s/frontend-deployment.yaml
-
+            sed -i "s|__BACKEND_IMAGE__|${{ secrets.ECR_BACKEND_REPO }}|g" backend-deployment.yaml
+            sed -i "s|__FRONTEND_IMAGE__|${{ secrets.ECR_FRONTEND_REPO }}|g" frontend-deployment.yaml
+            
             # Apply Kubernetes manifests
-            kubectl apply -f ats-mono-repo/k8s/backend-deployment.yaml
-            kubectl apply -f ats-mono-repo/k8s/backend-service.yaml
-            kubectl apply -f ats-mono-repo/k8s/frontend-deployment.yaml
-            kubectl apply -f ats-mono-repo/k8s/frontend-service.yaml
+            kubectl apply -f backend-deployment.yaml
+            kubectl apply -f backend-service.yaml
+            kubectl apply -f frontend-deployment.yaml
+            kubectl apply -f frontend-service.yaml
 
 
