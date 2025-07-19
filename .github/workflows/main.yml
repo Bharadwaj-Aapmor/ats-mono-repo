@@ -5,11 +5,6 @@ on:
     branches:
       - devops
 
-env:
-  AWS_REGION: ap-south-1
-  ECR_BACKEND_REPO: ${{ secrets.ECR_BACKEND_REPO }}
-  ECR_FRONTEND_REPO: ${{ secrets.ECR_FRONTEND_REPO }}
-
 jobs:
 
   build-and-push:
