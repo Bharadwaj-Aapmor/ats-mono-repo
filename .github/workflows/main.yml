@@ -44,7 +44,7 @@ jobs:
           script: |
             # Clone the deployment repo
             rm -rf ats-mono-repo
-            git clone https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
+            git clone --single-branch --branch devops https://github.com/Bharadwaj-Aapmor/ats-mono-repo.git
             cd ats-mono-repo/k8s
 
             # Write backend environment file
