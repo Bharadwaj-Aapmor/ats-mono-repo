@@ -42,16 +42,22 @@ jobs:
           username: ${{ secrets.K8S_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            # Write .env file for backend
+            # Clone the deployment repo
+            rm -rf ats-deploy
+            git clone https://github.com/Bharadwaj-AV/ats-deploy.git
+            cd ats-deploy
+
+            # Write backend environment file
             echo "${{ secrets.BACKEND_ENV_FILE }}" > backend.env
 
-            # Replace image names in manifests dynamically
+            # Replace placeholders with ECR image URLs
             sed -i "s|__BACKEND_IMAGE__|${{ secrets.ECR_BACKEND_REPO }}|g" k8s/backend-deployment.yaml
             sed -i "s|__FRONTEND_IMAGE__|${{ secrets.ECR_FRONTEND_REPO }}|g" k8s/frontend-deployment.yaml
 
-            # Apply Kubernetes configs
+            # Apply Kubernetes manifests
             kubectl apply -f k8s/backend-deployment.yaml
             kubectl apply -f k8s/backend-service.yaml
             kubectl apply -f k8s/frontend-deployment.yaml
             kubectl apply -f k8s/frontend-service.yaml
+
 
